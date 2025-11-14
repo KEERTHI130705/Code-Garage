@@ -46,8 +46,8 @@ function Hero() {
           </div>
 
           <div className="stat-card glass">
-            <div className="stat-value">24/7</div>
-            <div className="stat-label">Support</div>
+            <div className="stat-value">6 months</div>
+            <div className="stat-label">program</div>
           </div>
         </div>
       </div>
