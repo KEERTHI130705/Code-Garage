@@ -28,7 +28,7 @@ function Hero() {
           </Link>
 
           <a href="#about">
-             <button className="btn-light-yellow btn-large">
+             <button className="btn-primary btn-large">
               <span>Learn More</span>
             </button>
           </a>
